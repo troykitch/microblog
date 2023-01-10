@@ -1,11 +1,29 @@
 {
 	"version": "https://jsonfeed.org/version/1",
-	"title": "Troy Kitch",
+	"title": "chezkitch",
 	"icon": "https://micro.blog/troykitch/avatar.jpg",
 	"home_page_url": "https://www.troykitch.com/",
 	"feed_url": "https://www.troykitch.com/feed.json",
 	"items": [
 		
+			{
+				"id": "http://troykitch.micro.blog/2023/01/06/as-a-devotee.html",
+				
+				"content_html": "<p>As a devotee of RSS, the rise of newsletters continues to mystify me. But I&rsquo;ve adapted. Today, there are some newsletters I enjoy, but I&rsquo;ve never liked inbox delivery. So this is the best thing I learned about this week: <a href=\"https://kill-the-newsletter.com\">kill-the-newsletter.com</a> 📖</p>\n",
+				"content_text": "As a devotee of RSS, the rise of newsletters continues to mystify me. But I've adapted. Today, there are some newsletters I enjoy, but I've never liked inbox delivery. So this is the best thing I learned about this week: [kill-the-newsletter.com](https://kill-the-newsletter.com) 📖\n",
+				"date_published": "2023-01-06T18:57:06-05:00",
+				"url": "https://www.troykitch.com/2023/01/06/as-a-devotee.html",
+				"tags": ["tip","Status"]
+			},
+			{
+				"id": "http://troykitch.micro.blog/2023/01/04/well-this-is.html",
+				
+				"content_html": "<p>Well this is new to me and I love it: <a href=\"https://musicforprogramming.net/\">Music for Programming</a> 🎶</p>\n",
+				"content_text": "Well this is new to me and I love it: [Music for Programming](https://musicforprogramming.net/) 🎶\n",
+				"date_published": "2023-01-04T12:56:28-05:00",
+				"url": "https://www.troykitch.com/2023/01/04/well-this-is.html",
+				"tags": ["productivity","Status"]
+			},
 			{
 				"id": "http://troykitch.micro.blog/2022/12/14/i-upgraded-to.html",
 				
@@ -103,7 +121,7 @@
 				"content_text": "This one is odd, but it serves a purpose. We have an elderly cat who has bad joints so has trouble eating. I set out to create an adjustable tray so he didn’t have to bend down to eat. Here's what I came up with. I made it tall enough to plan for the future (in case we end up getting a really large cat or a small dog someday in the future). Our cat can now comfortably eat while seated. The trays easily move up or down depending on the size of the bowl.\n\n<img src=\"uploads/2022/0b16645c73.jpg\" alt=\"Cat1\" title=\"cat1.jpeg\" border=\"0\" width=\"1800\" height=\"2400\" />\n\nThe inspiration for this: I had two Harbor Freight bar clamps in my shop, shown below, which I never use because I don’t like to use them for work holding. But the one thing I like about these is that the bottom clamp ratchet is very easy to move up and down. So I thought, what if I cut these clamps up and used the parts to make a cat feeder that could be adjusted?\n\n<img src=\"uploads/2022/2880ddf513.jpg\" alt=\"Cat2\" title=\"cat2.jpeg\" border=\"0\" width=\"1800\" height=\"1800\" />\n\nThis is the end result, with a touch of decorative cord wrapping. This was all made with wood scraps and it’s mostly poplar. I’m happy with how it came out and I believe it a one-of-kind design. I mean, really who is going to make something this weird? \n\nEach tray is attached with four screws (and glued) to the aluminum clamp ratchets. I framed the trays so each has a lip so the cat can’t push the bowl off the edge. \n\n<img src=\"uploads/2022/3126d694c4.jpg\" alt=\"Cat3\" title=\"cat3.jpeg\" border=\"0\" width=\"1800\" height=\"2400\" />\n\nI added bumper feet on the bottom of the stand to keep it off the ground a bit in case a water bowl is tipped. I made the top removable so each tray can be removed and cleaned. The tops are capped with scrap leather just to ensure we don’t cut ourselves on the cut aluminum edges. Each bar is set in the poplar base with deep mortises, glued, and screwed in. Also, I added wood inserts to the inner part of the bars for more sturdiness. \n\n<img src=\"uploads/2022/dcb90fee8f.jpg\" alt=\"Cat45\" title=\"cat45.jpeg\" border=\"0\" width=\"1800\" height=\"1350\" />\n\n<img src=\"uploads/2022/3c7a1ef25d.jpg\" alt=\"Cat6\" title=\"cat6.jpeg\" border=\"0\" width=\"1800\" height=\"1350\" />\n\nThe top is shaped so it’s easy to lift off. I cut tiny mortises to fit these bits from the bar clamps and they just rest on top of the aluminum arms. I glued them in.\n\n<img src=\"uploads/2022/a56e7d27a3.jpg\" alt=\"Cat5\" title=\"cat5.jpeg\" border=\"0\" width=\"1800\" height=\"2400\" />\n\nAnd here is the final. The apparatus is sized to fit nicely on a standard cat mat. I finished all the wood parts with three coats of <a href=\"https://osmocolorusa.com/product/topoil-high-solid/\">Osmo TopOil High Solid</a>.\n\n<img src=\"uploads/2022/f7077cb7db.jpg\" alt=\"Cat final\" title=\"cat-final.jpeg\" border=\"0\" width=\"1800\" height=\"1350\" />\n",
 				"date_published": "2022-01-01T12:25:53-05:00",
 				"url": "https://www.troykitch.com/2022/01/01/adjustable-cat-feeder.html",
-				"tags": ["woodworking","handtools","Photos"]
+				"tags": ["handtools","Photos"]
 			},
 			{
 				"id": "http://troykitch.micro.blog/2022/01/01/my-first-kumiko.html",
