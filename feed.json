@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://troykitch.micro.blog/2023/03/01/good-interview-with.html",
+				
+				"content_html": "<p>Good interview with Mozilla chair Mitchell Baker on this <a href=\"https://www.theverge.com/2023/2/14/23598344/mozilla-firefox-ceo-mitchell-baker-microsoft-edge-bing-google-apple-ai\">episode of Decoder</a>. I hope it inspires more people to try Mozilla products and I wish more companies had nonprofit business models. 💻</p>\n<blockquote>\n<p>&ldquo;Our shareholder is not looking for maximum financial return; it’s looking for maximum public benefit.&rdquo;</p>\n</blockquote>\n",
+				"content_text": "Good interview with Mozilla chair Mitchell Baker on this [episode of Decoder](https://www.theverge.com/2023/2/14/23598344/mozilla-firefox-ceo-mitchell-baker-microsoft-edge-bing-google-apple-ai). I hope it inspires more people to try Mozilla products and I wish more companies had nonprofit business models. 💻\n\n> \"Our shareholder is not looking for maximum financial return; it’s looking for maximum public benefit.\"\n",
+				"date_published": "2023-03-01T07:04:21-05:00",
+				"url": "https://www.troykitch.com/2023/03/01/good-interview-with.html",
+				"tags": ["browsers"]
+			},
+			{
+				"id": "http://troykitch.micro.blog/2023/02/22/i-read-stephen.html",
+				
+				"content_html": "<p>I read Stephen King’s Fairy Tale. Not a great novel, but enjoyable enough. It’s a meta creation that plays with tropes. 📚</p>\n",
+				"content_text": "I read Stephen King’s Fairy Tale. Not a great novel, but enjoyable enough. It’s a meta creation that plays with tropes. 📚\n",
+				"date_published": "2023-02-22T18:18:19-05:00",
+				"url": "https://www.troykitch.com/2023/02/22/i-read-stephen.html",
+				"tags": ["books"]
+			},
+			{
 				"id": "http://troykitch.micro.blog/2023/02/05/harpers-ferry-west.html",
 				
 				"content_html": "<p>Harper&rsquo;s Ferry, West Virginia, from the Maryland overlook. I hiked a 6.6 mile loop today, which included a stop to take this photo. It was relatively crowded on this cold and windy day, so I imagine this is a trail to avoid in the warmer months! What a nice view.  📷</p>\n<!-- raw HTML omitted -->\n",
