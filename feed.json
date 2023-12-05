@@ -7,13 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://troykitch.micro.blog/2023/12/04/bought-an-old.html",
+				
+				"content_html": "<p>Bought an old lamp from an antique store and it had this quaint old thing in it. We don&rsquo;t talk about it much, but the LED lighting revolution is quite profound.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Bought an old lamp from an antique store and it had this quaint old thing in it. We don't talk about it much, but the LED lighting revolution is quite profound.\n\n<img src=\"uploads/2023/b9db732040.jpg\" width=\"360\" height=\"430\" alt=\"An old filament bulb with colorful background from a Fedora desktop\">\n",
+				"date_published": "2023-12-04T15:46:19-05:00",
+				"url": "https://forestriver.rocks/2023/12/04/bought-an-old.html",
+				"tags": ["Photos"]
+			},
+			{
 				"id": "http://troykitch.micro.blog/2023/11/30/im-back-to.html",
 				
 				"content_html": "<p>I&rsquo;m back to woodworking after more than a year without a shop. During the long transition to move to a new home, I got rid of my remaining power tools. I&rsquo;m now a 100% hand tool shop for my projects. Started out by making a box out of scrap pine to warm up after such a long hiatus. I&rsquo;m rusty!</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "I'm back to woodworking after more than a year without a shop. During the long transition to move to a new home, I got rid of my remaining power tools. I'm now a 100% hand tool shop for my projects. Started out by making a box out of scrap pine to warm up after such a long hiatus. I'm rusty!\n\n<img src=\"uploads/2023/image.jpg\" width=\"600\" height=\"450\" alt=\"A small pine dovetailed box on a workbench\">\n",
 				"date_published": "2023-11-30T13:14:41-05:00",
 				"url": "https://forestriver.rocks/2023/11/30/im-back-to.html",
-				"tags": ["Photos"]
+				"tags": ["woodworking","Photos"]
 			},
 			{
 				"id": "http://troykitch.micro.blog/2023/04/04/i-read-christopher.html",
