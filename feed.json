@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://troykitch.micro.blog/2024/05/06/great-essay-from.html",
+				
+				"content_html": "<p>Great essay from Noema. <a href=\"https://www.noemamag.com/we-need-to-rewild-the-internet/\">We Need To Rewild The Internet</a></p>\n",
+				"content_text": "Great essay from Noema. [We Need To Rewild The Internet](https://www.noemamag.com/we-need-to-rewild-the-internet/)\n",
+				"date_published": "2024-05-06T20:15:40-04:00",
+				"url": "https://forestriver.rocks/2024/05/06/great-essay-from.html"
+			},
+			{
 				"id": "http://troykitch.micro.blog/2024/05/05/im-working-on.html",
 				
 				"content_html": "<p>I&rsquo;m working on a solution to convert my old iMac G4 into an iPad stand. Still in experimental phase.</p>\n<!-- raw HTML omitted -->\n",
@@ -46,7 +54,7 @@
 				"id": "http://troykitch.micro.blog/2024/01/20/utility-room-shelves.html",
 				
 				"content_html": "<p>Utility room shelves complete.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Utility room shelves complete. \n\n<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://forestriver.rocks/uploads/2024/img-1283.jpeg\" alt=\"\" title=\"IMG_1283.jpeg\" border=\"0\" width=\"600\" height=\"450\" />\n",
+				"content_text": "Utility room shelves complete. \n\n<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://cdn.uploads.micro.blog/42912/2024/img-1283.jpeg\" alt=\"\" title=\"IMG_1283.jpeg\" border=\"0\" width=\"600\" height=\"450\" />\n",
 				"date_published": "2024-01-20T08:29:55-04:00",
 				"url": "https://forestriver.rocks/2024/01/20/utility-room-shelves.html",
 				"tags": ["woodworking","handtools","Photos"]
@@ -73,7 +81,7 @@
 				"id": "http://troykitch.micro.blog/2023/12/12/while-the-concept.html",
 				
 				"content_html": "<p>While the concept of &ldquo;forest bathing&rdquo; is popular, I prefer to think of my explorations as &ldquo;forest diving.&rdquo;  #hiking</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "While the concept of \"forest bathing\" is popular, I prefer to think of my explorations as \"forest diving.\"  #hiking\n\n<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://forestriver.rocks/uploads/2023/tree-woods.jpeg\" alt=\"tree with moss shot from base looking upwards with blue sky\" title=\"tree-woods.jpeg\" border=\"0\" width=\"599\" height=\"450\" />\n",
+				"content_text": "While the concept of \"forest bathing\" is popular, I prefer to think of my explorations as \"forest diving.\"  #hiking\n\n<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://cdn.uploads.micro.blog/42912/2023/tree-woods.jpeg\" alt=\"tree with moss shot from base looking upwards with blue sky\" title=\"tree-woods.jpeg\" border=\"0\" width=\"599\" height=\"450\" />\n",
 				"date_published": "2023-12-12T16:39:22-04:00",
 				"url": "https://forestriver.rocks/2023/12/12/while-the-concept.html",
 				"tags": ["Status","Photos"]
