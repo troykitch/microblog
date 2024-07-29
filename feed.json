@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://troykitch.micro.blog/2024/07/29/i-came-across.html",
+				
+				"content_html": "<p>I came across this via <!-- raw HTML omitted -->Flowing Data<!-- raw HTML omitted -->. This is inspired work: <!-- raw HTML omitted --><a href=\"https://victoriaroserichards.co.uk/work/\">https://victoriaroserichards.co.uk/work/</a><!-- raw HTML omitted --></p>\n",
+				"content_text": "I came across this via <a href=\"https://flowingdata.com/2024/07/29/embroidered-landscapes/\">Flowing Data</a>. This is inspired work: <a href=\"https://victoriaroserichards.co.uk/work/\">https://victoriaroserichards.co.uk/work/</a>\n",
+				"date_published": "2024-07-29T11:09:38-04:00",
+				"url": "https://forestriver.rocks/2024/07/29/i-came-across.html"
+			},
+			{
+				"id": "http://troykitch.micro.blog/2024/07/14/as-i-wait.html",
+				
+				"content_html": "<p>As I wait for Copa America to start, I want to look at South America. In Google Maps, with search … easy. In Apple Maps, I gave up trying to do it using search terms.</p>\n",
+				"content_text": "As I wait for Copa America to start, I want to look at South America. In Google Maps, with search … easy. In Apple Maps, I gave up trying to do it using search terms.\n",
+				"date_published": "2024-07-14T20:51:39-04:00",
+				"url": "https://forestriver.rocks/2024/07/14/as-i-wait.html",
+				"tags": ["Apple"]
+			},
+			{
 				"id": "http://troykitch.micro.blog/2024/07/13/annual-high-wheel.html",
 				
 				"content_html": "<p>Annual high wheel race in Frederick, Maryland, is underway.</p>\n<!-- raw HTML omitted -->\n",
