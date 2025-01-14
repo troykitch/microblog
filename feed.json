@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://troykitch.micro.blog/2025/01/13/burnside-bridge-antietam-national-battlefield.html",
+				
+				"content_html": "<p>Burnside Bridge, Antietam National Battlefield, earlier today. Beautiful spot, I’m only a little sad I can’t do some fly fishing here.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Burnside Bridge, Antietam National Battlefield, earlier today. Beautiful spot, I’m only a little sad I can’t do some fly fishing here.\n\n<img src=\"uploads/2025/cb3896d684.jpg\" width=\"600\" height=\"450\" alt=\"A stone bridge with arches spans a partially frozen river, surrounded by snow-covered trees and landscape.\">\n",
+				"date_published": "2025-01-13T20:58:58-05:00",
+				"url": "https://forestriver.rocks/2025/01/13/burnside-bridge-antietam-national-battlefield.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://troykitch.micro.blog/2025/01/03/random-minor-predictions-for.html",
+				"title": "Random (minor) predictions for 2025",
+				"content_html": "<ul>\n<li>Mozilla continues random experiments instead of doubling down of Firefox.</li>\n<li>Kagi announces a new partner.</li>\n<li>TextExpander seeks new model amidst growing competition.</li>\n<li>Raycast makes an acquisition.</li>\n<li>FastMail acquires FMail2, or at least buys the developer a coffee.</li>\n<li>RSS enjoys tiny uptick in popularity. Nobody pays much attention.</li>\n<li>Flipboard resurgence.</li>\n<li>Chrome is spun off, but nobody can articulate how this helps.</li>\n<li>Tai Chi is popular again.</li>\n<li>Suddenly, there are so many social/feed aggregation services.</li>\n<li>The U.S. government is required to use X by executive order.</li>\n<li>Passkey adoption remains weak.</li>\n<li>Apple acquires Craft.</li>\n</ul>\n",
+				"content_text": "- Mozilla continues random experiments instead of doubling down of Firefox.\n- Kagi announces a new partner.\n- TextExpander seeks new model amidst growing competition.\n- Raycast makes an acquisition.\n- FastMail acquires FMail2, or at least buys the developer a coffee.\n- RSS enjoys tiny uptick in popularity. Nobody pays much attention. \n- Flipboard resurgence.\n- Chrome is spun off, but nobody can articulate how this helps.\n- Tai Chi is popular again.\n- Suddenly, there are so many social/feed aggregation services.\n- The U.S. government is required to use X by executive order.\n- Passkey adoption remains weak.\n- Apple acquires Craft. \n",
+				"date_published": "2025-01-03T21:57:35-05:00",
+				"url": "https://forestriver.rocks/2025/01/03/random-minor-predictions-for.html"
+			},
+			{
 				"id": "http://troykitch.micro.blog/2024/12/23/it-feels-like-we-are.html",
 				
 				"content_html": "<p>It feels like we are in a new era of browser choice (Zen, Orion, Arc, Vivaldi, etc.). I would love to see OmniWeb come back.</p>\n",
@@ -45,7 +62,7 @@
 				"id": "http://troykitch.micro.blog/2024/10/16/western-maryland-last.html",
 				
 				"content_html": "<p>Western Maryland, last week. Been meaning to post this because it was an amazingly beautiful morning that this image barely captures. I took this on my way to do some fly fishing on Savage River.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Western Maryland, last week. Been meaning to post this because it was an amazingly beautiful morning that this image barely captures. I took this on my way to do some fly fishing on Savage River.\n\n<img src=\"uploads/2024/0b76573016.jpg\" width=\"600\" height=\"450\" alt=\"Western Maryland, last week. Been meaning to post this because it was an amazingly beautiful morning that this image barely captures. I took this on my way to some fly fishing on Savage River.\">\n",
+				"content_text": "Western Maryland, last week. Been meaning to post this because it was an amazingly beautiful morning that this image barely captures. I took this on my way to do some fly fishing on Savage River.\n\n<img src=\"https://cdn.uploads.micro.blog/42912/2024/0b76573016.jpg\" width=\"600\" height=\"450\" alt=\"Western Maryland, last week. Been meaning to post this because it was an amazingly beautiful morning that this image barely captures. I took this on my way to some fly fishing on Savage River.\">\n",
 				"date_published": "2024-10-16T18:44:15-05:00",
 				"url": "https://forestriver.rocks/2024/10/16/western-maryland-last.html",
 				"tags": ["Photos"]
@@ -54,7 +71,7 @@
 				"id": "http://troykitch.micro.blog/2024/09/30/if-you-have.html",
 				
 				"content_html": "<p>If you have an old iPad Smart Folio keyboard you no longer need or use, here’s a use for part of it: cut off the magnetic section in the back and use it on your workbench to hold some things. I use mine to hold a card scraper and block plane. It’s a nice holding surface because it’s magnetic and it has a plush top.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "If you have an old iPad Smart Folio keyboard you no longer need or use, here’s a use for part of it: cut off the magnetic section in the back and use it on your workbench to hold some things. I use mine to hold a card scraper and block plane. It’s a nice holding surface because it’s magnetic and it has a plush top.\n\n<img src=\"uploads/2024/3c546462ff.jpg\" width=\"600\" height=\"450\" alt=\"Block plane and card scraper on workbench, held on magnetic bit of old iPad Folio keyboard case cut out.\">\n",
+				"content_text": "If you have an old iPad Smart Folio keyboard you no longer need or use, here’s a use for part of it: cut off the magnetic section in the back and use it on your workbench to hold some things. I use mine to hold a card scraper and block plane. It’s a nice holding surface because it’s magnetic and it has a plush top.\n\n<img src=\"https://cdn.uploads.micro.blog/42912/2024/3c546462ff.jpg\" width=\"600\" height=\"450\" alt=\"Block plane and card scraper on workbench, held on magnetic bit of old iPad Folio keyboard case cut out.\">\n",
 				"date_published": "2024-09-30T19:58:10-05:00",
 				"url": "https://forestriver.rocks/2024/09/30/if-you-have.html",
 				"tags": ["Photos"]
