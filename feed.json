@@ -7,6 +7,32 @@
 	"items": [
 		
 			{
+				"id": "http://troykitch.micro.blog/2025/06/19/what-an-inspired-idea-wood.html",
+				
+				"content_html": "<p>What an inspired idea: wood embroidery. <a href=\"https://www.thisiscolossal.com/2025/06/nosheen-iqbal-wood-embroidery/\">www.thisiscolossal.com/2025/06/n&hellip;</a></p>\n",
+				"content_text": "What an inspired idea: wood embroidery. [www.thisiscolossal.com/2025/06/n...](https://www.thisiscolossal.com/2025/06/nosheen-iqbal-wood-embroidery/)\n",
+				"date_published": "2025-06-19T07:24:12-04:00",
+				"url": "https://troykitch.com/2025/06/19/what-an-inspired-idea-wood.html"
+			},
+			{
+				"id": "http://troykitch.micro.blog/2025/06/15/the-hardest-part-of-a.html",
+				
+				"content_html": "<p>The hardest part of a workshop with no power tools: resawing. I’m not very good at holding my line, but getting better with time. Also, good exercise.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The hardest part of a workshop with no power tools: resawing. I’m not very good at holding my line, but getting better with time. Also, good exercise.\n\n<img src=\"uploads/2025/d5cef249c6.jpg\" width=\"450\" height=\"600\" alt=\"A frame saw on a workbench resawing a cherry board.\">\n",
+				"date_published": "2025-06-15T09:41:27-04:00",
+				"url": "https://troykitch.com/2025/06/15/the-hardest-part-of-a.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://troykitch.micro.blog/2025/06/13/starting-a-new-project-a.html",
+				
+				"content_html": "<p>Starting a new project: a cabinet with sliding doors in (more or less) mid-century style. Spent several hours with a bunch of cherry deciding what would be used where.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Starting a new project: a cabinet with sliding doors in (more or less) mid-century style. Spent several hours with a bunch of cherry deciding what would be used where.\n\n<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://troykitch.com/uploads/2025/cherry-stand-grading.jpeg\" alt=\"60 board feet of cherry wood layed out on garage floor\" title=\"cherry-stand-grading.jpeg\" border=\"0\" width=\"2000\" height=\"1518\" />\n",
+				"date_published": "2025-06-13T20:06:10-04:00",
+				"url": "https://troykitch.com/2025/06/13/starting-a-new-project-a.html",
+				"tags": ["woodworking","Photos"]
+			},
+			{
 				"id": "http://troykitch.micro.blog/2025/06/06/fly-poison-in-bloom-in.html",
 				
 				"content_html": "<p>Fly poison in bloom in the mountains, a native type of lily.</p>\n<!-- raw HTML omitted -->\n",
@@ -37,7 +63,7 @@
 				"id": "http://troykitch.micro.blog/2025/05/18/a-new-red-maple-poking.html",
 				
 				"content_html": "<p>A new red maple poking out, one of so many I saw on my hike. I’m going to keep tabs on this particular one to see how it fares. Another native species.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A new red maple poking out, one of so many I saw on my hike. I’m going to keep tabs on this particular one to see how it fares. Another native species.\n\n<img src=\"uploads/2025/eba1b7c375.jpg\" width=\"600\" height=\"450\" alt=\"Bright green leaves of a new red maple contrast with the surrounding brown fallen leaves on a forest floor.\">\n",
+				"content_text": "A new red maple poking out, one of so many I saw on my hike. I’m going to keep tabs on this particular one to see how it fares. Another native species.\n\n<img src=\"https://cdn.uploads.micro.blog/42912/2025/eba1b7c375.jpg\" width=\"600\" height=\"450\" alt=\"Bright green leaves of a new red maple contrast with the surrounding brown fallen leaves on a forest floor.\">\n",
 				"date_published": "2025-05-18T13:17:22-04:00",
 				"url": "https://troykitch.com/2025/05/18/a-new-red-maple-poking.html",
 				"tags": ["Photos"]
@@ -46,7 +72,7 @@
 				"id": "http://troykitch.micro.blog/2025/05/16/here-is-some-yellow-star.html",
 				
 				"content_html": "<p>Here is some yellow star grass I came across in the mountains of Maryland. Along with the mountain laurel I shared yesterday, this is another species native to the United States. I think I&rsquo;m finding a new hiking hobby: document at least one native species each hike.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Here is some yellow star grass I came across in the mountains of Maryland. Along with the mountain laurel I shared yesterday, this is another species native to the United States. I think I'm finding a new hiking hobby: document at least one native species each hike.\n\n<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://troykitch.com/uploads/2025/yellow-star-grass.jpeg\" alt=\"Yellow star grass.\" title=\"yellow-star-grass.jpeg\" border=\"0\" width=\"600\" height=\"450\" />\n",
+				"content_text": "Here is some yellow star grass I came across in the mountains of Maryland. Along with the mountain laurel I shared yesterday, this is another species native to the United States. I think I'm finding a new hiking hobby: document at least one native species each hike.\n\n<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://cdn.uploads.micro.blog/42912/2025/yellow-star-grass.jpeg\" alt=\"Yellow star grass.\" title=\"yellow-star-grass.jpeg\" border=\"0\" width=\"600\" height=\"450\" />\n",
 				"date_published": "2025-05-16T12:45:12-04:00",
 				"url": "https://troykitch.com/2025/05/16/here-is-some-yellow-star.html",
 				"tags": ["Photos"]
@@ -55,7 +81,7 @@
 				"id": "http://troykitch.micro.blog/2025/05/15/cleaning-out-the-attic-why.html",
 				
 				"content_html": "<p>Cleaning out the attic. Why do I still have this? Behold the Toshiba T3400CT from 1994: i486SX-33 microprocessor, 120 MB storage, 4 MB RAM, a Megahertz 14,400 bps Fax Modem in the PCMCIA slot, and 640x480 color LCD (which was a big deal at the time). Ah, the memories.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Cleaning out the attic. Why do I still have this? Behold the Toshiba T3400CT from 1994: i486SX-33 microprocessor, 120 MB storage, 4 MB RAM, a Megahertz 14,400 bps Fax Modem in the PCMCIA slot, and 640x480 color LCD (which was a big deal at the time). Ah, the memories.\n\n<img src=\"uploads/2025/af3bf50b59.jpg\" width=\"600\" height=\"450\" alt=\"A vintage Toshiba laptop in my workshop\">\n",
+				"content_text": "Cleaning out the attic. Why do I still have this? Behold the Toshiba T3400CT from 1994: i486SX-33 microprocessor, 120 MB storage, 4 MB RAM, a Megahertz 14,400 bps Fax Modem in the PCMCIA slot, and 640x480 color LCD (which was a big deal at the time). Ah, the memories.\n\n<img src=\"https://cdn.uploads.micro.blog/42912/2025/af3bf50b59.jpg\" width=\"600\" height=\"450\" alt=\"A vintage Toshiba laptop in my workshop\">\n",
 				"date_published": "2025-05-15T17:15:55-04:00",
 				"url": "https://troykitch.com/2025/05/15/cleaning-out-the-attic-why.html",
 				"tags": ["Photos"]
