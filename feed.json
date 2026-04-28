@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://troykitch.micro.blog/2026/04/27/recently-returned-from-a-trip.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Recently returned from a trip to Western Maryland, where we stayed in one of the few mid-Atlantic spots with no cell service (look, a phone booth!). The fishing was excellent, but the water levels are way too low for April.</p>\n",
+				"content_text": "<img src=\"uploads/2026/phone-booth.jpg\" alt=\"A phone booth in New Germany State Park, Maryland\" title=\"phone-booth.jpeg\" border=\"0\" width=\"2000\" height=\"1500\" />\n\nRecently returned from a trip to Western Maryland, where we stayed in one of the few mid-Atlantic spots with no cell service (look, a phone booth!). The fishing was excellent, but the water levels are way too low for April.\n",
+				"date_published": "2026-04-27T20:50:14-04:00",
+				"url": "https://troykitch.com/2026/04/27/recently-returned-from-a-trip.html",
+				"tags": ["flyfishing","Photos"]
+			},
+			{
 				"id": "http://troykitch.micro.blog/2026/04/03/just-finished-installing-a-threebarrel.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>Just finished installing a three-barrel rain catchment system for our backyard with a kit from <!-- raw HTML omitted -->BlueBarrel<!-- raw HTML omitted -->. It was a fun project. BlueBarrel is worth checking out if you&rsquo;re looking for rain barrel options.</p>\n",
@@ -46,7 +55,7 @@
 				"id": "http://troykitch.micro.blog/2025/12/11/my-wife-shot-this-image.html",
 				
 				"content_html": "<p>My wife shot this image of a golden eagle this morning using her iPhone while we were out near Gathland State Park in Maryland. I think it&rsquo;s an impressive image given the equipment. The most impressive part was the proximity of the eagle, who couldn&rsquo;t care less that we were so close.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My wife shot this image of a golden eagle this morning using her iPhone while we were out near Gathland State Park in Maryland. I think it's an impressive image given the equipment. The most impressive part was the proximity of the eagle, who couldn't care less that we were so close.\n\n<img src=\"uploads/2025/golden-eagle.jpg\" alt=\"Golden eagle in leafless trees.\" title=\"golden-eagle.jpeg\" border=\"0\" width=\"1810\" height=\"2097\" />\n",
+				"content_text": "My wife shot this image of a golden eagle this morning using her iPhone while we were out near Gathland State Park in Maryland. I think it's an impressive image given the equipment. The most impressive part was the proximity of the eagle, who couldn't care less that we were so close.\n\n<img src=\"https://cdn.uploads.micro.blog/42912/2025/golden-eagle.jpg\" alt=\"Golden eagle in leafless trees.\" title=\"golden-eagle.jpeg\" border=\"0\" width=\"1810\" height=\"2097\" />\n",
 				"date_published": "2025-12-11T20:01:46-04:00",
 				"url": "https://troykitch.com/2025/12/11/my-wife-shot-this-image.html",
 				"tags": ["Photos"]
