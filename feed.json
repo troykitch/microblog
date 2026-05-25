@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://troykitch.micro.blog/2026/05/25/experimenting-with-a-new-box.html",
+				
+				"content_html": "<p>Experimenting with a new box design and getting better a matching grain around the sides. This has a floating base and raised top. All completed with hand tools, except for one cheat: I cut the hole in the lid with a forstner bit.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Experimenting with a new box design and getting better a matching grain around the sides. This has a floating base and raised top. All completed with hand tools, except for one cheat: I cut the hole in the lid with a forstner bit.\n\n<img src=\"uploads/2026/ad0c575037.jpg\" width=\"600\" height=\"450\" alt=\"A wooden box with a circular hole on top rests on a workbench, supported by yellow stands.\">\n",
+				"date_published": "2026-05-25T11:18:25-04:00",
+				"url": "https://troykitch.com/2026/05/25/experimenting-with-a-new-box.html",
+				"tags": ["woodworking","handtools","Photos"]
+			},
+			{
 				"id": "http://troykitch.micro.blog/2026/05/09/beautiful-spot-where-beaver-creek.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>Beautiful spot where Beaver Creek meets Antietam Creek in Washington County, Maryland. Fishing wasn&rsquo;t good, but the scenery was great. Normally at this time of year, the water levels are a couple of feet higher. Like much of the country, we are in drought conditions in the spring. Not great.</p>\n",
@@ -46,7 +55,7 @@
 				"id": "http://troykitch.micro.blog/2025/12/20/after-gutting-my-broken-tube.html",
 				
 				"content_html": "<p>After gutting my broken tube radio, I couldn&rsquo;t bear to toss the tubes, so I made a little display for kicks. I was going to add utility (e.g., a pen holder or something), but decided to leave it and display it as &ldquo;old tech art.&rdquo;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "After gutting my broken tube radio, I couldn't bear to toss the tubes, so I made a little display for kicks. I was going to add utility (e.g., a pen holder or something), but decided to leave it and display it as \"old tech art.\"\n\n<img src=\"uploads/2025/tube-display.jpg\" alt=\"Four vacuum tubes are displayed on a wooden block resting on a workbench.\">\n",
+				"content_text": "After gutting my broken tube radio, I couldn't bear to toss the tubes, so I made a little display for kicks. I was going to add utility (e.g., a pen holder or something), but decided to leave it and display it as \"old tech art.\"\n\n<img src=\"https://cdn.uploads.micro.blog/42912/2025/tube-display.jpg\" alt=\"Four vacuum tubes are displayed on a wooden block resting on a workbench.\">\n",
 				"date_published": "2025-12-20T14:00:38-04:00",
 				"url": "https://troykitch.com/2025/12/20/after-gutting-my-broken-tube.html",
 				"tags": ["woodworking","Photos"]
