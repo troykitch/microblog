@@ -13,7 +13,7 @@
 				"content_text": "It's that time of year again when the mountain laurels bloom and I once again can't resist taking a bunch of photos. \n\n<img src=\"uploads/2026/1e2fc25e87.jpg\" width=\"600\" height=\"450\" alt=\"mountain laurel flowers \">\n",
 				"date_published": "2026-06-03T20:07:20-04:00",
 				"url": "https://troykitch.com/2026/06/03/its-that-time-of-year.html",
-				"tags": ["Photos"]
+				"tags": ["Photos","hiking"]
 			},
 			{
 				"id": "http://troykitch.micro.blog/2026/05/28/i-assumed-this-would-be.html",
@@ -21,7 +21,8 @@
 				"content_html": "<p>I assumed this would be a retro gimmick that I tried once. Then I loaded up my subs and I found I genuinely like it. I just dropped in to a video from Wood by Wright and sat through the whole thing. Is this about the paradox of choice or just a fun format? <a href=\"https://channelsurfer.tv/\">channelsurfer.tv</a></p>\n",
 				"content_text": "I assumed this would be a retro gimmick that I tried once. Then I loaded up my subs and I found I genuinely like it. I just dropped in to a video from Wood by Wright and sat through the whole thing. Is this about the paradox of choice or just a fun format? [channelsurfer.tv](https://channelsurfer.tv/)\n",
 				"date_published": "2026-05-28T21:03:00-04:00",
-				"url": "https://troykitch.com/2026/05/28/i-assumed-this-would-be.html"
+				"url": "https://troykitch.com/2026/05/28/i-assumed-this-would-be.html",
+				"tags": ["interesting"]
 			},
 			{
 				"id": "http://troykitch.micro.blog/2026/05/28/look-at-this-lovely-grain.html",
@@ -30,7 +31,7 @@
 				"content_text": "Look at this lovely grain. I joined a guild with a community shop 45 minutes away. Today, I resawed these small Koa boards there with a bandsaw. I’m a hand tool shop, but there are times when I want to use a bandsaw. I love the idea of community-shared equipment, and not just for woodworking.\n\n<img src=\"uploads/2026/15dfbf0443.jpg\" width=\"600\" height=\"450\" alt=\"Several wooden boards are laid out on a workbench in a workshop setting.\">\n",
 				"date_published": "2026-05-28T16:49:27-04:00",
 				"url": "https://troykitch.com/2026/05/28/look-at-this-lovely-grain.html",
-				"tags": ["Photos"]
+				"tags": ["woodworking","handtools","Photos"]
 			},
 			{
 				"id": "http://troykitch.micro.blog/2026/05/26/i-had-an-old-regular.html",
@@ -39,7 +40,7 @@
 				"content_text": "I had an old regular shooting board I wasn’t using so I made a donkey’s ear attachment to shoot long 45 degree miters. I wanted something fast to build and precise, so I mounted the board on two cheap plastic rafter squares. It’s not pretty, but works great and completed it in about an hour. \n\n<img src=\"uploads/2026/2536783608.jpg\" width=\"600\" height=\"450\" alt=\"A wooden jig with angled pieces to shoot 45 degree miters is mounted on a workbench.\">\n",
 				"date_published": "2026-05-26T13:15:43-04:00",
 				"url": "https://troykitch.com/2026/05/26/i-had-an-old-regular.html",
-				"tags": ["Photos"]
+				"tags": ["woodworking","Photos"]
 			},
 			{
 				"id": "http://troykitch.micro.blog/2026/05/25/experimenting-with-a-new-box.html",
@@ -54,7 +55,7 @@
 				"id": "http://troykitch.micro.blog/2026/05/09/beautiful-spot-where-beaver-creek.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>Beautiful spot where Beaver Creek meets Antietam Creek in Washington County, Maryland. Fishing wasn&rsquo;t good, but the scenery was great. Normally at this time of year, the water levels are a couple of feet higher. Like much of the country, we are in drought conditions in the spring. Not great.</p>\n",
-				"content_text": "<img src=\"uploads/2026/img-0911.jpg\" alt=\"\" title=\"IMG_0911.jpeg\" border=\"0\" width=\"2000\" height=\"1500\" />\n\nBeautiful spot where Beaver Creek meets Antietam Creek in Washington County, Maryland. Fishing wasn't good, but the scenery was great. Normally at this time of year, the water levels are a couple of feet higher. Like much of the country, we are in drought conditions in the spring. Not great. \n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/42912/2026/img-0911.jpg\" alt=\"\" title=\"IMG_0911.jpeg\" border=\"0\" width=\"2000\" height=\"1500\" />\n\nBeautiful spot where Beaver Creek meets Antietam Creek in Washington County, Maryland. Fishing wasn't good, but the scenery was great. Normally at this time of year, the water levels are a couple of feet higher. Like much of the country, we are in drought conditions in the spring. Not great. \n",
 				"date_published": "2026-05-09T17:37:18-04:00",
 				"url": "https://troykitch.com/2026/05/09/beautiful-spot-where-beaver-creek.html",
 				"tags": ["flyfishing","Photos"]
